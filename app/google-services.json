@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260007217542",
+    "project_id": "partehobe",
+    "storage_bucket": "partehobe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260007217542:android:81c577760616dc127a8407",
+        "android_client_info": {
+          "package_name": "com.example.partehobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkv1WCQIQQrUNkn0n8PvPeyoWwQ40a3AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
